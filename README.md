@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Bernard here 👋 working in DevOps 
 
 <!--
 **bernardshroff/bernardshroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
